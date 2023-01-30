@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://stalk.gg/">Vorty</a></h2>
+<h2>Hey 👋, I'm Vorty</h2>
 
 <p>I'm currently a software developer at Discord Bot.</p>
 <p>
